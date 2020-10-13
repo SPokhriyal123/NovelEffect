@@ -1,0 +1,50 @@
+{
+  "novels": [
+    {
+      "id": 2,
+      "slug": "sherlock-homes",
+      "name": "Sherlock Homes",
+      "authorId": 2,
+      "description": "Sherlock Holmes is a fictional private detective created by British author Sir Arthur Conan Doyle.",
+      "createdAt": 1602489993956
+    },
+    {
+      "id": 3,
+      "slug": "pride-and-prejudice",
+      "name": "Pride and Prejudice",
+      "authorId": 2,
+      "description": "Pride and Prejudice is a romantic novel of manners written by Jane Austen in 1813. ",
+      "createdAt": 1602490106844
+    },
+    {
+      "id": 4,
+      "slug": "harry-potter",
+      "name": "Harry Potter",
+      "authorId": 1,
+      "description": "Harry Potter is a film series based on the eponymous novels by author J. K. Rowling. ",
+      "createdAt": 1602490153248
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "J. K. Rowling"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Arthur Conan Doyle"
+    },
+    {
+      "id": 4,
+      "name": "Mary Shelley"
+    },
+    {
+      "id": 5,
+      "name": "John Green"
+    }
+  ]
+}
